@@ -1,0 +1,12 @@
+.form-content {
+    display: flex;
+    gap: 2rem;
+}
+
+.btn-submit {
+    border: 1px solid black;
+}
+
+#todo-input:focus {
+    background: grey;
+}
